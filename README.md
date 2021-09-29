@@ -7,5 +7,4 @@ This project is called the "Life Project". I am currently on Life Project 2. It 
 
 Coda is not a long-term viable strategy for this project so I am currently looking to move it to a website and setup a proper backend. Right now I am using   Integromat for backend data management and recently signed up for a Google Cloud trial and am exploring BigQuery and Google Cloud Storage. I am building my personal website on Webflow, but their CMS options (specifically their limitations on references) are very limiting for a data-driven project. The data structures and interfaces are constantly evolving as well, so I want to set up an adaptable system that allows for quick changes without much debt.
 
-website: ianwatts.site
-emaiL: ian@ianwatts.site
+email: ian@ianwatts.site
