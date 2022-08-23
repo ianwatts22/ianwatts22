@@ -1,4 +1,4 @@
-Hi, I am Ian Ellington Watts earth/USA/CA/Los Angeles. I am 23 years old currently living in Los Angeles. I am a mechanical engineer by training (University of Michigan, Ann Arbor 2020) and try to apply mechanistic thinking to all problems I tackle. I am deeply interested in technology (across the board), neuroscience, 
+Hi, I'm Ian Ellington Watts (born 3/7/98). I currently live in Los Angeles and am working on building [Recreation](https://recreation.community/) I am a mechanical engineer by training (University of Michigan, Ann Arbor 2020) and try to apply mechanistic thinking to all problems I tackle. I am deeply interested in technology (across the board), neuroscience, 
 
 I am obsessed with self-improvement: the never-ending quest to become a better version of yourself. I don't know what that means, but I have some ideas that I pursue with excitement and vigor. I think self-improvement is the most powerful tool humans, and evolution, has to offer. 
 
